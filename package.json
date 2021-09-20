@@ -1,7 +1,7 @@
 {
-    "name": "realtime-pizza-app",
+    "name": "starbucks-webapp",
     "version": "1.0.0",
-    "description": "This is our realtime pizza app",
+    "description": "This is our realtime coffee shop.",
     "main": "index.js",
     "author": "DISHEN MAKWANA",
     "scripts": {
